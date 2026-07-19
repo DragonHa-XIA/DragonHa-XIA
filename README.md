@@ -16,8 +16,6 @@
 ## 📦 我嘅作品同实验
 
 - [**休眠控制面板**](https://github.com/DragonHa-XIA/macos-sleep-control-panel)：一个 macOS 原生菜单栏小工具，快速切换正常休眠、开盖防睡同全面防睡。
-- [**gemmadiff**](https://github.com/DragonHa-XIA/gemmadiff)：本地运行嘅 AI 代码审阅工具。
-- [**textkit**](https://github.com/DragonHa-XIA/textkit)：轻量级文字处理命令行工具。
 - **教我玩GitHub**：我嘅 GitHub 学习同作品履历建设记录。
 
 > 呢度唔系「刷绿格仔」嘅地方，而系我慢慢将想法做出来、留下真实足印嘅地方。
